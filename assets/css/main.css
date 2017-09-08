@@ -1623,3 +1623,19 @@
 		.education > img {
 			width: 100%;
 		}
+
+		div.logo span {
+			font-size: 3rem;
+		}
+
+		div.logo {
+			padding: 10px 0 0 3px;
+		}
+
+		div.logo:hover {
+			background-color: rgba(255, 255, 255, 0.075);
+		}
+
+		#resume {
+			border-bottom: none;
+		}
